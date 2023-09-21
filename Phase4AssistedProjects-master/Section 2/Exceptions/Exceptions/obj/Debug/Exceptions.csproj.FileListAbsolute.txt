@@ -1,0 +1,6 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

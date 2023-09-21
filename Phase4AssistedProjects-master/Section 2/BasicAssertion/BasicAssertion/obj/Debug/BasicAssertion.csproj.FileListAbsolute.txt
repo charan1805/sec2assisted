@@ -1,0 +1,6 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\bin\Debug\BasicAssertion.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\bin\Debug\BasicAssertion.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\obj\Debug\BasicAssertion.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\obj\Debug\BasicAssertion.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\obj\Debug\BasicAssertion.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assisted Projects\Section 2\BasicAssertion\BasicAssertion\obj\Debug\BasicAssertion.pdb
